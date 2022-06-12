@@ -25,3 +25,9 @@ hs_err_pid*
 /.idea
 /my-spring-step-01/my-spring-step-01.iml
 /my-spring-step-02/my-spring-step-02.iml
+/my-spring-step-03/my-spring-step-03.iml
+
+# target file
+/my-spring-step-01/target
+/my-spring-step-02/target
+/my-spring-step-03/target
